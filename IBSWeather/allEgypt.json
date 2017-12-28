@@ -1,0 +1,1731 @@
+[
+  {
+    "id" : 360542,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.735140000000001,
+      "lat" : 30.61618
+    },
+    "name" : "Al Qurayn"
+  },
+  {
+    "id" : 361495,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.2575,
+      "lat" : 29.619720000000001
+    },
+    "name" : "Al Ayyat"
+  },
+  {
+    "id" : 362882,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.174378999999998,
+      "lat" : 30.910178999999999
+    },
+    "name" : "Abu al Matamir"
+  },
+  {
+    "id" : 350789,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.205601000000001,
+      "lat" : 30.179220000000001
+    },
+    "name" : "Qalyub"
+  },
+  {
+    "id" : 355795,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.300840000000001,
+      "lat" : 29.841439999999999
+    },
+    "name" : "Halwan"
+  },
+  {
+    "id" : 356933,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.163288000000001,
+      "lat" : 26.054939000000001
+    },
+    "name" : "Farshut"
+  },
+  {
+    "id" : 356945,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.715070999999998,
+      "lat" : 31.329768999999999
+    },
+    "name" : "Faraskur"
+  },
+  {
+    "id" : 356989,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.801821,
+      "lat" : 30.730060999999999
+    },
+    "name" : "Faqus"
+  },
+  {
+    "id" : 358095,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.439250999999999,
+      "lat" : 30.754218999999999
+    },
+    "name" : "Diyarb Najm"
+  },
+  {
+    "id" : 358108,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.64649,
+      "lat" : 31.133050999999998
+    },
+    "name" : "Disuq"
+  },
+  {
+    "id" : 358115,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.475979000000002,
+      "lat" : 26.124669999999998
+    },
+    "name" : "Dishna"
+  },
+  {
+    "id" : 358172,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.594270999999999,
+      "lat" : 31.088711
+    },
+    "name" : "Dikirnis"
+  },
+  {
+    "id" : 358269,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.807639999999999,
+      "lat" : 27.556021000000001
+    },
+    "name" : "Dayrut"
+  },
+  {
+    "id" : 358274,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.846620999999999,
+      "lat" : 27.641760000000001
+    },
+    "name" : "Dayr Mawas"
+  },
+  {
+    "id" : 358970,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.813379000000001,
+      "lat" : 30.93976
+    },
+    "name" : "Basyun"
+  },
+  {
+    "id" : 359173,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.097850999999999,
+      "lat" : 29.074408999999999
+    },
+    "name" : "Bani Suwayf"
+  },
+  {
+    "id" : 359280,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.178578999999999,
+      "lat" : 30.459060999999998
+    },
+    "name" : "Banha"
+  },
+  {
+    "id" : 359576,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.13571,
+      "lat" : 30.12303
+    },
+    "name" : "Awsim"
+  },
+  {
+    "id" : 359710,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.785250000000001,
+      "lat" : 30.544478999999999
+    },
+    "name" : "At Tall al Kabir"
+  },
+  {
+    "id" : 359797,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.299999,
+      "lat" : 29.700001
+    },
+    "name" : "Muḩāfaz̧at as Suways"
+  },
+  {
+    "id" : 360048,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.976351000000001,
+      "lat" : 30.298570999999999
+    },
+    "name" : "Ashmun"
+  },
+  {
+    "id" : 360464,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.205560999999999,
+      "lat" : 29.337779999999999
+    },
+    "name" : "Al Wasitah"
+  },
+  {
+    "id" : 7603259,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.650002000000001,
+      "lat" : 25.700001
+    },
+    "name" : "Muḩāfaz̧at al Uqşur"
+  },
+  {
+    "id" : 360531,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 34.277931000000002,
+      "lat" : 26.104258999999999
+    },
+    "name" : "Al Qusayr"
+  },
+  {
+    "id" : 360612,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.460991,
+      "lat" : 30.618798999999999
+    },
+    "name" : "Al Qanayat"
+  },
+  {
+    "id" : 360615,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.137029999999999,
+      "lat" : 30.193269999999998
+    },
+    "name" : "Al Qanatir al Khayriyah"
+  },
+  {
+    "id" : 360754,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.937000000000001,
+      "lat" : 31.158149999999999
+    },
+    "name" : "Al Manzilah"
+  },
+  {
+    "id" : 360928,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.368120000000001,
+      "lat" : 30.210349999999998
+    },
+    "name" : "Al Khankah"
+  },
+  {
+    "id" : 360995,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.210930000000001,
+      "lat" : 30.00808
+    },
+    "name" : "Al Jizah"
+  },
+  {
+    "id" : 361103,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.562989999999999,
+      "lat" : 30.718769000000002
+    },
+    "name" : "Al Ibrahimiyah"
+  },
+  {
+    "id" : 361179,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.25,
+      "lat" : 29.899999999999999
+    },
+    "name" : "Al Hawamidiyah"
+  },
+  {
+    "id" : 361329,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.899481000000002,
+      "lat" : 28.824310000000001
+    },
+    "name" : "Al Fashn"
+  },
+  {
+    "id" : 361394,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 28.86591,
+      "lat" : 28.34919
+    },
+    "name" : "Al Bawiti"
+  },
+  {
+    "id" : 361435,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.003470999999998,
+      "lat" : 26.235679999999999
+    },
+    "name" : "Al Balyana"
+  },
+  {
+    "id" : 361457,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.036809999999999,
+      "lat" : 30.430260000000001
+    },
+    "name" : "Al Bajur"
+  },
+  {
+    "id" : 361478,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.415541000000001,
+      "lat" : 26.992571000000002
+    },
+    "name" : "Al Badari"
+  },
+  {
+    "id" : 361546,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.798439000000002,
+      "lat" : 31.131589999999999
+    },
+    "name" : "Al Arish"
+  },
+  {
+    "id" : 361661,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.745028999999999,
+      "lat" : 26.562169999999998
+    },
+    "name" : "Akhmim"
+  },
+  {
+    "id" : 361702,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.291509999999999,
+      "lat" : 30.94154
+    },
+    "name" : "Aja"
+  },
+  {
+    "id" : 361827,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.536328999999999,
+      "lat" : 30.827908999999998
+    },
+    "name" : "Ad Dilinjat"
+  },
+  {
+    "id" : 362277,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.838408999999999,
+      "lat" : 27.9312
+    },
+    "name" : "Abu Qurqas"
+  },
+  {
+    "id" : 362485,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.671479999999999,
+      "lat" : 30.725079999999998
+    },
+    "name" : "Abu Kabir"
+  },
+  {
+    "id" : 362973,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.151050999999999,
+      "lat" : 27.269600000000001
+    },
+    "name" : "Abnub"
+  },
+  {
+    "id" : 419435,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.635539999999999,
+      "lat" : 31.208290000000002
+    },
+    "name" : "Az Zarqa"
+  },
+  {
+    "id" : 7521348,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.316710999999998,
+      "lat" : 29.600180000000002
+    },
+    "name" : "Ain Sukhna"
+  },
+  {
+    "id" : 359678,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.625400999999997,
+      "lat" : 28.23638
+    },
+    "name" : "Tor"
+  },
+  {
+    "id" : 7910966,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.34355,
+      "lat" : 30.514779999999998
+    },
+    "name" : "Beheira"
+  },
+  {
+    "id" : 346030,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.244249,
+      "lat" : 30.714199000000001
+    },
+    "name" : "Zifta"
+  },
+  {
+    "id" : 347236,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.200710000000001,
+      "lat" : 30.353939
+    },
+    "name" : "Toukh"
+  },
+  {
+    "id" : 347542,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.961189000000001,
+      "lat" : 29.476391
+    },
+    "name" : "Tamiyah"
+  },
+  {
+    "id" : 347634,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.502140000000001,
+      "lat" : 26.769300000000001
+    },
+    "name" : "Tahta"
+  },
+  {
+    "id" : 347749,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.850000000000001,
+      "lat" : 28.91667
+    },
+    "name" : "Sumusta as Sultani"
+  },
+  {
+    "id" : 348112,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.786650000000002,
+      "lat" : 31.271049000000001
+    },
+    "name" : "Sidi Salim"
+  },
+  {
+    "id" : 349114,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.521270999999999,
+      "lat" : 31.195440000000001
+    },
+    "name" : "Shirbin"
+  },
+  {
+    "id" : 349156,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.320181000000002,
+      "lat" : 30.312691000000001
+    },
+    "name" : "Shibin al Qanatir"
+  },
+  {
+    "id" : 349715,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.243320000000001,
+      "lat" : 30.960329000000002
+    },
+    "name" : "Samannud"
+  },
+  {
+    "id" : 349717,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.710070000000002,
+      "lat" : 28.312139999999999
+    },
+    "name" : "Samalut"
+  },
+  {
+    "id" : 350370,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.157769999999999,
+      "lat" : 30.564819
+    },
+    "name" : "Quwaysina"
+  },
+  {
+    "id" : 350376,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.956140999999999,
+      "lat" : 30.972249999999999
+    },
+    "name" : "Qutur"
+  },
+  {
+    "id" : 350422,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.763618000000001,
+      "lat" : 25.914069999999999
+    },
+    "name" : "Kousa"
+  },
+  {
+    "id" : 352344,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.639900000000001,
+      "lat" : 31.12294
+    },
+    "name" : "Minyat an Nasr"
+  },
+  {
+    "id" : 352354,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.931640999999999,
+      "lat" : 30.465789999999998
+    },
+    "name" : "Minuf"
+  },
+  {
+    "id" : 352628,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.779240000000001,
+      "lat" : 28.418989
+    },
+    "name" : "Matay"
+  },
+  {
+    "id" : 352679,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.377600000000001,
+      "lat" : 30.360558999999999
+    },
+    "name" : "Mashtul as Suq"
+  },
+  {
+    "id" : 352913,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.970039,
+      "lat" : 27.310400000000001
+    },
+    "name" : "Manfalut"
+  },
+  {
+    "id" : 353219,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.049999,
+      "lat" : 29.816669000000001
+    },
+    "name" : "Madinat Sittah Uktubar"
+  },
+  {
+    "id" : 353828,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.697330000000001,
+      "lat" : 30.760960000000001
+    },
+    "name" : "Kawm Hamadah"
+  },
+  {
+    "id" : 354105,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.62575,
+      "lat" : 30.79336
+    },
+    "name" : "Kafr Saqr"
+  },
+  {
+    "id" : 354502,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.940121000000001,
+      "lat" : 31.1143
+    },
+    "name" : "Kafr ash Shaykh"
+  },
+  {
+    "id" : 354775,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.128429000000001,
+      "lat" : 31.133849999999999
+    },
+    "name" : "Kafr ad Dawwar"
+  },
+  {
+    "id" : 354981,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.497601,
+      "lat" : 26.673189000000001
+    },
+    "name" : "Juhaynah"
+  },
+  {
+    "id" : 355392,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.841061,
+      "lat" : 31.508400000000002
+    },
+    "name" : "Izbat al Burj"
+  },
+  {
+    "id" : 355420,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.789439999999999,
+      "lat" : 29.2376
+    },
+    "name" : "Itsa"
+  },
+  {
+    "id" : 355648,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.681419000000002,
+      "lat" : 29.358039999999999
+    },
+    "name" : "Ibshaway"
+  },
+  {
+    "id" : 355939,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.588011000000002,
+      "lat" : 30.671301
+    },
+    "name" : "Hihya"
+  },
+  {
+    "id" : 356000,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.290179999999999,
+      "lat" : 30.912800000000001
+    },
+    "name" : "Hawsh Isa"
+  },
+  {
+    "id" : 356806,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.550180000000001,
+      "lat" : 31.202908999999998
+    },
+    "name" : "Fuwah"
+  },
+  {
+    "id" : 358600,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.127331000000002,
+      "lat" : 29.148161000000002
+    },
+    "name" : "Bush"
+  },
+  {
+    "id" : 358821,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.357980999999999,
+      "lat" : 31.21452
+    },
+    "name" : "Bilqas Qism Awwal"
+  },
+  {
+    "id" : 359953,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.89875,
+      "lat" : 30.59618
+    },
+    "name" : "Ash Shuhada"
+  },
+  {
+    "id" : 360526,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.818411000000001,
+      "lat" : 27.440200999999998
+    },
+    "name" : "Al Qusiyah"
+  },
+  {
+    "id" : 360686,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.750298999999998,
+      "lat" : 28.10988
+    },
+    "name" : "Al Minya"
+  },
+  {
+    "id" : 360716,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.031078000000001,
+      "lat" : 31.182870999999999
+    },
+    "name" : "Al Matariyah"
+  },
+  {
+    "id" : 360773,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.803498999999999,
+      "lat" : 26.476859999999999
+    },
+    "name" : "Al Manshah"
+  },
+  {
+    "id" : 361029,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.865179000000001,
+      "lat" : 31.180861
+    },
+    "name" : "Al Jamaliyah"
+  },
+  {
+    "id" : 361213,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.147659000000001,
+      "lat" : 31.31146
+    },
+    "name" : "Al Hamul"
+  },
+  {
+    "id" : 6692512,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.678249000000001,
+      "lat" : 27.394171
+    },
+    "name" : "El Gouna"
+  },
+  {
+    "id" : 6692518,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.899521,
+      "lat" : 26.991230000000002
+    },
+    "name" : "Makadi Bay"
+  },
+  {
+    "id" : 357994,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30,
+      "lat" : 27
+    },
+    "name" : "Arab Republic of Egypt"
+  },
+  {
+    "id" : 360688,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30,
+      "lat" : 28.100000000000001
+    },
+    "name" : "Muḩāfaz̧at al Minyā"
+  },
+  {
+    "id" : 432887,
+
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.603649000000001,
+      "lat" : 28.105399999999999
+    },
+    "name" : "Al Amal (Nimrah Thamāniyah)"
+  },
+  {
+    "id" : 361323,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.5,
+      "lat" : 29.299999
+    },
+    "name" : "Muḩāfaz̧at al Fayyūm"
+  },
+  {
+    "id" : 359416,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.012250999999999,
+      "lat" : 29.139429
+    },
+    "name" : "Bāhā"
+  },
+  {
+    "id" : 361056,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.400002000000001,
+      "lat" : 30.600000000000001
+    },
+    "name" : "Muḩāfaz̧at al Ismā‘īlīyah"
+  },
+  {
+    "id" : 349598,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.291111000000001,
+      "lat" : 30.375561000000001
+    },
+    "name" : "Sarābiyūm"
+  },
+  {
+    "id" : 361370,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.200001,
+      "lat" : 30.600000000000001
+    },
+    "name" : "Muḩāfaz̧at al Buḩayrah"
+  },
+  {
+    "id" : 408911,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.076329999999999,
+      "lat" : 30.581699
+    },
+    "name" : "Al Wiḩdah"
+  },
+  {
+    "id" : 357678,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.260559000000001,
+      "lat" : 30.564399999999999
+    },
+    "name" : "‘Izbat Abū ‘Aţwah"
+  },
+  {
+    "id" : 358448,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.469138999999998,
+      "lat" : 31.039169000000001
+    },
+    "name" : "Damanhur"
+  },
+  {
+    "id" : 355182,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.799999,
+      "lat" : 29
+    },
+    "name" : "Muḩāfaz̧at Janūb Sīnā’"
+  },
+  {
+    "id" : 349340,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 34.304988999999999,
+      "lat" : 27.85183
+    },
+    "name" : "Sharm ash Shaykh"
+  },
+  {
+    "id" : 360631,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.649999999999999,
+      "lat" : 30.049999
+    },
+    "name" : "Muḩāfaz̧at al Qāhirah"
+  },
+  {
+    "id" : 7922173,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.251961000000001,
+      "lat" : 30.050699000000002
+    },
+    "name" : "Al ‘Atabah"
+  },
+  {
+    "id" : 361059,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 29.75,
+      "lat" : 31
+    },
+    "name" : "Muḩāfaz̧at al Iskandarīyah"
+  },
+  {
+    "id" : 361058,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 29.955271,
+      "lat" : 31.215638999999999
+    },
+    "name" : "Alexandria"
+  },
+  {
+    "id" : 360015,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 29.91667,
+      "lat" : 31.200001
+    },
+    "name" : "Ash Shāţibī"
+  },
+  {
+    "id" : 361320,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.841801,
+      "lat" : 29.309950000000001
+    },
+    "name" : "Al Fayyum"
+  },
+  {
+    "id" : 361294,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31,
+      "lat" : 30.899999999999999
+    },
+    "name" : "Muḩāfaz̧at al Gharbīyah"
+  },
+  {
+    "id" : 347497,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.001920999999999,
+      "lat" : 30.788468999999999
+    },
+    "name" : "Tanda"
+  },
+  {
+    "id" : 361468,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.788448000000002,
+      "lat" : 27.186239
+    },
+    "name" : "Muḩāfaz̧at al Baḩr al Aḩmar"
+  },
+  {
+    "id" : 6692521,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.826819999999998,
+      "lat" : 27.254249999999999
+    },
+    "name" : "Port el Ghalib"
+  },
+  {
+    "id" : 354365,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.818049999999999,
+      "lat" : 30.8248
+    },
+    "name" : "Kafr az Zayyat"
+  },
+  {
+    "id" : 360016,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.799999,
+      "lat" : 30.700001
+    },
+    "name" : "Muḩāfaz̧at ash Sharqīyah"
+  },
+  {
+    "id" : 359493,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.502001,
+      "lat" : 30.587681
+    },
+    "name" : "Az Zaqaziq"
+  },
+  {
+    "id" : 360621,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.25,
+      "lat" : 30.299999
+    },
+    "name" : "Muḩāfaz̧at al Qalyūbīyah"
+  },
+  {
+    "id" : 351022,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.183330999999999,
+      "lat" : 30.466669
+    },
+    "name" : "Nişf Atrīb"
+  },
+  {
+    "id" : 350546,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.75,
+      "lat" : 25.799999
+    },
+    "name" : "Muḩāfaz̧at Qinā"
+  },
+  {
+    "id" : 350550,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.726711000000002,
+      "lat" : 26.164180999999999
+    },
+    "name" : "Qina"
+  },
+  {
+    "id" : 357542,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.305260000000001,
+      "lat" : 29.865338999999999
+    },
+    "name" : "‘Ezbet el-Auqât"
+  },
+  {
+    "id" : 359781,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.100000000000001,
+      "lat" : 27.200001
+    },
+    "name" : "Muḩāfaz̧at Asyūţ"
+  },
+  {
+    "id" : 359783,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.183679999999999,
+      "lat" : 27.180959999999999
+    },
+    "name" : "Asyut"
+  },
+  {
+    "id" : 347794,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.700001,
+      "lat" : 26.5
+    },
+    "name" : "Muḩāfaz̧at Sūhāj"
+  },
+  {
+    "id" : 347796,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.694780000000002,
+      "lat" : 26.556950000000001
+    },
+    "name" : "Suhaj"
+  },
+  {
+    "id" : 358044,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.75,
+      "lat" : 31.350000000000001
+    },
+    "name" : "Muḩāfaz̧at Dumyāţ"
+  },
+  {
+    "id" : 358048,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.813320000000001,
+      "lat" : 31.416478999999999
+    },
+    "name" : "Damietta"
+  },
+  {
+    "id" : 359787,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.900002000000001,
+      "lat" : 23.299999
+    },
+    "name" : "Muḩāfaz̧at Aswān"
+  },
+  {
+    "id" : 359792,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.907040000000002,
+      "lat" : 24.093430000000001
+    },
+    "name" : "Aswan"
+  },
+  {
+    "id" : 358617,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.299999,
+      "lat" : 31.100000000000001
+    },
+    "name" : "Muḩāfaz̧at Būr Sa‘īd"
+  },
+  {
+    "id" : 412814,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.299999,
+      "lat" : 31.266670000000001
+    },
+    "name" : "Syria"
+  },
+  {
+    "id" : 351483,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.633330999999998,
+      "lat" : 25.683330999999999
+    },
+    "name" : "Naj‘ al Khuţbah"
+  },
+  {
+    "id" : 361849,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.600000000000001,
+      "lat" : 31.100000000000001
+    },
+    "name" : "Muḩāfaz̧at ad Daqahlīyah"
+  },
+  {
+    "id" : 347591,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.377870999999999,
+      "lat" : 31.053899999999999
+    },
+    "name" : "Talkha"
+  },
+  {
+    "id" : 349852,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.5,
+      "lat" : 26.766670000000001
+    },
+    "name" : "Sāḩil Ţahţā"
+  },
+  {
+    "id" : 359212,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.8004,
+      "lat" : 28.503599000000001
+    },
+    "name" : "Bani Mazar"
+  },
+  {
+    "id" : 359171,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.600000000000001,
+      "lat" : 28.899999999999999
+    },
+    "name" : "Muḩāfaz̧at Banī Suwayf"
+  },
+  {
+    "id" : 361024,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.08333,
+      "lat" : 29.066669000000001
+    },
+    "name" : "Al Janādilah"
+  },
+  {
+    "id" : 360829,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.164988999999998,
+      "lat" : 30.974501
+    },
+    "name" : "Al Mahallah al Kubra"
+  },
+  {
+    "id" : 360689,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31,
+      "lat" : 30.5
+    },
+    "name" : "Muḩāfaz̧at al Minūfīyah"
+  },
+  {
+    "id" : 347612,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.942920999999998,
+      "lat" : 30.680250000000001
+    },
+    "name" : "Tala"
+  },
+  {
+    "id" : 353223,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.508711000000002,
+      "lat" : 30.367419999999999
+    },
+    "name" : "Madīnat as Sādāt"
+  },
+  {
+    "id" : 362004,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.31897,
+      "lat" : 27.044108999999999
+    },
+    "name" : "Abu Tij"
+  },
+  {
+    "id" : 7916170,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.239370000000001,
+      "lat" : 30.125548999999999
+    },
+    "name" : "Masākin al Akhshāb wa ash Shāy"
+  },
+  {
+    "id" : 354076,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.244440000000001,
+      "lat" : 30.549721000000002
+    },
+    "name" : "Kafr Shukr"
+  },
+  {
+    "id" : 358620,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.936508000000003,
+      "lat" : 26.729178999999998
+    },
+    "name" : "Bur Safajah"
+  },
+  {
+    "id" : 349158,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.009041,
+      "lat" : 30.552579999999999
+    },
+    "name" : "Shibin al Kawm"
+  },
+  {
+    "id" : 352951,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.841650000000001,
+      "lat" : 27.731400000000001
+    },
+    "name" : "Mallawi"
+  },
+  {
+    "id" : 360761,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.380690000000001,
+      "lat" : 31.036369000000001
+    },
+    "name" : "Al Mansurah"
+  },
+  {
+    "id" : 362610,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.66667,
+      "lat" : 30.533331
+    },
+    "name" : "Abū Ḩammād al Maḩaţţah"
+  },
+  {
+    "id" : 355628,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.299009000000002,
+      "lat" : 31.307818999999999
+    },
+    "name" : "Idku"
+  },
+  {
+    "id" : 350203,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.416388999999999,
+      "lat" : 31.404440000000001
+    },
+    "name" : "Rosetta"
+  },
+  {
+    "id" : 351434,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.241421000000003,
+      "lat" : 26.049489999999999
+    },
+    "name" : "Naj Hammadi"
+  },
+  {
+    "id" : 355026,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.891608999999999,
+      "lat" : 26.338260999999999
+    },
+    "name" : "Jirja"
+  },
+  {
+    "id" : 360997,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.052859999999999,
+      "lat" : 29.997761000000001
+    },
+    "name" : "Muḩāfaz̧at al Jīzah"
+  },
+  {
+    "id" : 359900,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.281110999999999,
+      "lat" : 29.564720000000001
+    },
+    "name" : "As Saff"
+  },
+  {
+    "id" : 358840,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.562228999999999,
+      "lat" : 30.420389
+    },
+    "name" : "Bilbays"
+  },
+  {
+    "id" : 346315,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 34.670830000000002,
+      "lat" : 29.029169
+    },
+    "name" : "Wāsiţ"
+  },
+  {
+    "id" : 353802,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.946258999999998,
+      "lat" : 24.476690000000001
+    },
+    "name" : "Kawm Umbu"
+  },
+  {
+    "id" : 355015,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.84684,
+      "lat" : 30.463051
+    },
+    "name" : "Jizayy"
+  },
+  {
+    "id" : 354500,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.899999999999999,
+      "lat" : 31.299999
+    },
+    "name" : "Muḩāfaz̧at Kafr ash Shaykh"
+  },
+  {
+    "id" : 359304,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.09094,
+      "lat" : 31.55463
+    },
+    "name" : "Balṭîm"
+  },
+  {
+    "id" : 411165,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.874721999999998,
+      "lat" : 24.98028
+    },
+    "name" : "Idfu"
+  },
+  {
+    "id" : 352603,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 27.5,
+      "lat" : 29.700001
+    },
+    "name" : "Muḩāfaz̧at Maţrūḩ"
+  },
+  {
+    "id" : 352733,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 27.245279,
+      "lat" : 31.352539
+    },
+    "name" : "Marsa Matruh"
+  },
+  {
+    "id" : 7522531,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.40551,
+      "lat" : 30.12191
+    },
+    "name" : "testing"
+  },
+  {
+    "id" : 359927,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.044170000000001,
+      "lat" : 29.48028
+    },
+    "name" : "Aşlān"
+  },
+  {
+    "id" : 355005,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.631371000000001,
+      "lat" : 28.198399999999999
+    },
+    "name" : "Al Jubayl"
+  },
+  {
+    "id" : 351388,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.866669000000002,
+      "lat" : 24
+    },
+    "name" : "Naj‘ Tinjār"
+  },
+  {
+    "id" : 7280514,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 34.329529000000001,
+      "lat" : 27.913810999999999
+    },
+    "name" : "Naama"
+  },
+  {
+    "id" : 414338,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.871670000000002,
+      "lat" : 28.664721
+    },
+    "name" : "‘Uqrat Şafḩah"
+  },
+  {
+    "id" : 410366,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.274380000000001,
+      "lat" : 31.265730000000001
+    },
+    "name" : "Al Manākh"
+  },
+  {
+    "id" : 361133,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.666671999999998,
+      "lat" : 25.66667
+    },
+    "name" : "Al Ḩubayl"
+  },
+  {
+    "id" : 361291,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.812908,
+      "lat" : 27.257380000000001
+    },
+    "name" : "Al Ghardaqah"
+  },
+  {
+    "id" : 362041,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.616240000000001,
+      "lat" : 22.345699
+    },
+    "name" : "Abu Sunbul"
+  },
+  {
+    "id" : 358333,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 29.683330999999999,
+      "lat" : 30.899999999999999
+    },
+    "name" : "Dawwār Abū al ‘Āşī"
+  },
+  {
+    "id" : 415505,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 29.936858999999998,
+      "lat" : 31.178889999999999
+    },
+    "name" : "‘Izbat Nādī aş Şayd"
+  },
+  {
+    "id" : 359256,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.049351000000001,
+      "lat" : 27.198879000000002
+    },
+    "name" : "Banī Ghālib"
+  },
+  {
+    "id" : 349401,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.700001,
+      "lat" : 30.5
+    },
+    "name" : "Muḩāfaz̧at Shamāl Sīnā’"
+  },
+  {
+    "id" : 357790,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 33.816668999999997,
+      "lat" : 31.133329
+    },
+    "name" : "El-Qushlâqât"
+  },
+  {
+    "id" : 355449,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.554020000000001,
+      "lat" : 25.29336
+    },
+    "name" : "Isna"
+  },
+  {
+    "id" : 358619,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.284118999999997,
+      "lat" : 31.256540000000001
+    },
+    "name" : "Port Said"
+  },
+  {
+    "id" : 359796,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.526271999999999,
+      "lat" : 29.973708999999999
+    },
+    "name" : "Suez"
+  },
+  {
+    "id" : 360502,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.642100999999997,
+      "lat" : 25.698931000000002
+    },
+    "name" : "Luxor"
+  },
+  {
+    "id" : 360630,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 31.249669999999998,
+      "lat" : 30.062629999999999
+    },
+    "name" : "Cairo"
+  },
+  {
+    "id" : 361055,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 32.272250999999997,
+      "lat" : 30.604271000000001
+    },
+    "name" : "Ismailia"
+  },
+  {
+    "id" : 347863,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 25.51952,
+      "lat" : 29.204090000000001
+    },
+    "name" : "Siwah"
+  },
+  {
+    "id" : 360483,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 28.899999999999999,
+      "lat" : 24.799999
+    },
+    "name" : "Muḩāfaz̧at al Wādī al Jadīd"
+  },
+  {
+    "id" : 350661,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 27.96979,
+      "lat" : 27.056801
+    },
+    "name" : "Qasr al Farafirah"
+  },
+  {
+    "id" : 350893,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 34.663398999999998,
+      "lat" : 29.046810000000001
+    },
+    "name" : "Nuwaybia"
+  },
+  {
+    "id" : 352736,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 34.891810999999997,
+      "lat" : 25.075728999999999
+    },
+    "name" : "Marsa Alam"
+  },
+  {
+    "id" : 358245,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 34.513378000000003,
+      "lat" : 28.500979999999998
+    },
+    "name" : "Dhahab"
+  },
+  {
+    "id" : 360923,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 30.54635,
+      "lat" : 25.451401000000001
+    },
+    "name" : "Al Kharijah"
+  },
+  {
+    "id" : 361612,
+    "country" : "EG",
+    "coord" : {
+      "lon" : 28.955020999999999,
+      "lat" : 30.830069999999999
+    },
+    "name" : "Al Alamayn"
+  }
+]

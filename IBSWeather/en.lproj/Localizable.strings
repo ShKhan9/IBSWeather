@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  PrayerNow
+
+  Created by ApprocksEg on 2/15/16.
+  Copyright © 2016 ApprocksEg. All rights reserved.
+*/
+"appLang"="en";
+
+
+// internet connection
+
+"internetTitle"="Error";
+
+"internetMessage"="The internet connection appears to be offline";
+
+
+//language Alert
+
+"langAlertTitle"="The Application must be restarted to apply the new Language";
+
+"langAlertOk"="Ok";
+
+"langAlertTry"="Try again";
+
+ 
+
+
